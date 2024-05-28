@@ -57,13 +57,13 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Las tecnologias que conozco👨🏻‍💻</h2></summary>
   </ul>
 </div>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,html,java,js,materialui,mongodb,mysql,nodejs,py,react,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,html,java,js,materialui,mongodb,nodejs,py,react,vscode" />
   </a>
 </p>
 
